@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Palm
+    given-names: Francisco
+    orcid: https://orcid.org/0000-0002-1293-0868
+title: "Introducción a la Visualización en Python"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12764573
+date-released: 2024-07-17
